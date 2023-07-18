@@ -12,7 +12,7 @@ noruzi206@gmail.com <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-HamedNorouzi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hamed-norouzi-570465208)
 <br>
-www.instagram.com/hanocode <br>
+www.instagram.com/thenoroozi <br>
 
 <h4>Here are my skills:</h4>
 <p>Right now I'm learning React and redux.

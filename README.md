@@ -12,6 +12,7 @@ noruzi206@gmail.com <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-HamedNorouzi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hamed-norouzi-570465208)
 <br>
+[![Linkedin Badge](https://img.shields.io/badge/-HamedNorouzi-black?style=flat&logo=Instagram&logoColor=white)](www.instagram.com/thenoroozi)<br>
 www.instagram.com/thenoroozi <br>
 
 <h4>Here are my skills:</h4>

@@ -5,7 +5,7 @@
 <h3>about me:</h3>
 <ul>
 <li>👀 I’m interested in creating, solving, learning progamming.</li>
-<li>🌱 I’m currently learning javascript, react as front-end developer.</li>
+<li>🌱 I’m currently learning NextJs as front-end developer.</li>
 <li>💞️ I’m looking to collaborate as junior on a company that could help me improve. </li>
 <li> 📫 How to reach me :</li> <br>
 noruzi206@gmail.com <br>
@@ -14,7 +14,6 @@ noruzi206@gmail.com <br>
 <br>
 
 <h4>Here are my skills:</h4>
-<p>Right now I'm learning React and redux.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
